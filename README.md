@@ -2,9 +2,9 @@
 
 ## About Me
 
-🎓 PhD
+🎓 PhD in Bio-statistics and Epidemiology
 
-📊 Biostatistician & Data Analyst
+📊 Senior Biostatistician
 
 🏥 Clinical Research | Epidemiology | Public Health
 
