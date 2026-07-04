@@ -2,11 +2,15 @@
 
 ## About Me
 
-🎓 PhD in Bio-statistics and Epidemiology
+🎓 PhD in Biostatistics and Epidemiology
 
-📊 Senior Biostatistician
+🎓 M.Sc. in Biostatistics and Epidemiology
 
-🏥 Clinical Research | Epidemiology | Public Health
+🎓 Bachelor's Degree in Siddha Medicine (AYUSH)
+
+📊 Current Position: Senior Biostatistician
+
+💼 Experience: 14+ Years in Biostatistics, Clinical Research, and Public Health
 
 💻 Statistical Programming in:
 - R
@@ -14,15 +18,23 @@
 - SAS
 - Stata
 
+## Areas of Expertise
+
+- Biostatistics
+- Statistical Programming
+- Clinical Research
+- Epidemiology
+- Public Health
+
 ## Research Interests
 
-- Classification modelling using ML
-- Longitudinal Data Analysis
+- Developing Classification Modeling using Machine Learning
 - ROC Analysis
+- Longitudinal Data Analysis
 - Causal Inference
-- Clinical trial
-- Reproducible Research
+- Clinical Trials
 - Data Visualization
+- Reproducible Research
 
 ## Connect with Me
 
